@@ -1,2 +1,2 @@
 # spring-boot-restful
-Spring boot Restful services project
+I am making Spring project with microservices useful for cloud deployment
